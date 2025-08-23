@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "7f0aa134cfb982d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "34449ce2a3974618",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cdc7ff1f42e2f5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собрания/Первое большое собрание отдела.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Первое большое собрание отдела"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "105e08dbe0cc68b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a13f089f929bcee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a727a9f3145994e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "92b42e6eee9e05e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5f0ccd1a49e8e654",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "526799d40b8bf8ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecce7a302a587c86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "943a85e62003da35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Собрания/Большое собрание отдела.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Большое собрание отдела"
+            }
+          },
+          {
+            "id": "c03bd23fde18fdd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "1df453a50a8e3810",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Собрания/Первое большое собрание отдела.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Первое большое собрание отдела"
+            }
+          },
+          {
+            "id": "bad7e6d3f7caafea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "f4d9160eefaf05fd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8cdc7ff1f42e2f5e",
+  "lastOpenFiles": [
+    "Подсказки.md",
+    "Собрания/0. Список собраний.md",
+    "Собрания/Первое большое собрание отдела.md",
+    "README.md",
+    "Без названия",
+    "Собрания/Без названия.base",
+    "Собрания/Список собраний",
+    "Без названия.base",
+    "Собрания",
+    "meet 1.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Welcome.md"
+  ]
+}
