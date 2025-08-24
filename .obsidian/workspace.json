@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#2024-08-24",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проблемы электрики и электроники.md",
+                "file": "Собрания/Первое большое собрание отдела.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Проблемы электрики и электроники"
+              "title": "Обратные ссылки для Первое большое собрание отдела"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проблемы электрики и электроники.md",
+                "file": "Собрания/Первое большое собрание отдела.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Проблемы электрики и электроники"
+              "title": "Исходящие ссылки из Первое большое собрание отдела"
             }
           },
           {
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проблемы электрики и электроники.md",
+                "file": "Собрания/Первое большое собрание отдела.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Проблемы электрики и электроники"
+              "title": "Структура Первое большое собрание отдела"
             }
           },
           {
@@ -152,6 +152,16 @@
             }
           },
           {
+            "id": "49b73197c46f7346",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
             "id": "f4d9160eefaf05fd",
             "type": "leaf",
             "state": {
@@ -162,11 +172,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,18 +187,24 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "16ebd2fe4923a591",
   "lastOpenFiles": [
-    "Собрания/0. Список собраний.md",
+    "2025-W34.md",
     "Собрания/Первое большое собрание отдела.md",
+    "2025-08-24.md",
+    "Собрания/0. Список собраний.md",
+    "Excalidraw/Drawing 2025-08-24 16.31.53.excalidraw.md",
+    "Templates",
+    "Excalidraw/Drawing 2025-08-24 16.30.53.excalidraw.md",
+    "Excalidraw",
     "Проблемы электрики и электроники.md",
     "Подсказки.md",
     "README.md",
-    "Без названия",
     "Собрания/Без названия.base",
     "Собрания/Список собраний",
     "Без названия.base",
