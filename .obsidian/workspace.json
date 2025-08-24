@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5481afeab87442f2",
+        "id": "4fafe7276d2457c3",
         "type": "tabs",
         "children": [
           {
-            "id": "16ebd2fe4923a591",
+            "id": "c28935cc65899c50",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2024-08-24",
+                "query": "tag:Electric/Electronics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,18 +192,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16ebd2fe4923a591",
+  "active": "f4d9160eefaf05fd",
   "lastOpenFiles": [
-    "2025-W34.md",
+    "Подсказки.md",
+    "Проблемы электрики и электроники.md",
     "Собрания/Первое большое собрание отдела.md",
-    "2025-08-24.md",
     "Собрания/0. Список собраний.md",
+    "2025-08-27.md",
+    "2025-W34.md",
+    "2025-08-24.md",
     "Excalidraw/Drawing 2025-08-24 16.31.53.excalidraw.md",
     "Templates",
     "Excalidraw/Drawing 2025-08-24 16.30.53.excalidraw.md",
     "Excalidraw",
-    "Проблемы электрики и электроники.md",
-    "Подсказки.md",
     "README.md",
     "Собрания/Без названия.base",
     "Собрания/Список собраний",
