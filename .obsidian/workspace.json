@@ -157,8 +157,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -187,15 +187,16 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
   "active": "c28935cc65899c50",
   "lastOpenFiles": [
-    "Собрания/Собрание руководителей. Итоги сезона 2025..md",
+    "Подсказки.md",
     "Собрания/Первое большое собрание отдела.md",
+    "Собрания/Собрание руководителей. Итоги сезона 2025..md",
     "Base/Templates/Шаблон собрания отдела.md",
     "Собрания/0. Список собраний.md",
     "Base/Weekly/2025-W33.md",
@@ -207,7 +208,6 @@
     "Base",
     "Собрания/Без названия.md",
     "Base/Weekly",
-    "Подсказки.md",
     "Templates/Без названия",
     "Проблемы электрики и электроники.md",
     "2025-08-27.md",
