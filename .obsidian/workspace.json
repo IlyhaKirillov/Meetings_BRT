@@ -157,8 +157,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -187,19 +187,18 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
   "active": "c28935cc65899c50",
   "lastOpenFiles": [
+    "Собрания/Первое большое собрание отдела.md",
+    "Собрания/Собрание руководителей. Итоги сезона 2025..md",
     "Полезные ссылки/САУ.md",
     "Полезные ссылки/Программирование.md",
     "Полезные ссылки/Электроника.md",
-    "Полезные ссылки/().md",
-    "Собрания/Первое большое собрание отдела.md",
-    "Собрания/Собрание руководителей. Итоги сезона 2025..md",
     "Полезные ссылки",
     "Подсказки.md",
     "Base/Templates/Шаблон собрания отдела.md",
