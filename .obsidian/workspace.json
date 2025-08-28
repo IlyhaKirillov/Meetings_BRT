@@ -157,8 +157,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -192,7 +192,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "c28935cc65899c50",
+  "active": "f4d9160eefaf05fd",
   "lastOpenFiles": [
     "Полезные ссылки/Программирование.md",
     "Собрания/Первое большое собрание отдела.md",
