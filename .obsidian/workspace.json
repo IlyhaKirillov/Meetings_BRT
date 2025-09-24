@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Полезные ссылки/Система.md",
+                "file": "LANIT/Проблемы BRT в разработке электрики и электроники.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Система"
+              "title": "Проблемы BRT в разработке электрики и электроники"
             }
           }
         ],
@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -172,8 +172,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -195,21 +195,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "obsidian-kanban:Создать новую доску": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "a81d61d0a9564f46",
   "lastOpenFiles": [
+    "Подсказки.md",
+    "LANIT/Проблемы BRT в разработке электрики и электроники.md",
+    "LANIT",
+    "Проблемы электрики и электроники.md",
     "Шаблон формы для набора в отдел электрики и электроники.md",
     "Полезные ссылки/Система.md",
     "Полезные ссылки/Без названия",
@@ -233,16 +237,13 @@
     "Собрания/Собрание руководителей. Итоги сезона 2025..md",
     "conflict-files-obsidian-git.md",
     "Полезные ссылки",
-    "Подсказки.md",
     "Base/Templates/Шаблон собрания отдела.md",
     "Base/Weekly/2025-W33.md",
     "Weekly/2025-W33.md",
     "Weekly",
     "Base/Weekly/2025-W34.md",
-    "Base/Weekly",
     "2025-08-18.md",
     "Собрания/Без названия.md",
-    "Проблемы электрики и электроники.md",
     "2025-08-27.md",
     "2025-W34.md",
     "2025-08-24.md",
@@ -250,7 +251,6 @@
     "Excalidraw/Drawing 2025-08-24 16.30.53.excalidraw.md",
     "README.md",
     "meet 1.md",
-    "Untitled.md",
-    "Untitled 1.md"
+    "Untitled.md"
   ]
 }
