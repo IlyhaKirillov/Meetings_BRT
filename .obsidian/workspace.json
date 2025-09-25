@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ТЗ на устройства/Плата настройки сход-развала.md",
+                "file": "Полезные ссылки/Система.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Плата настройки сход-развала"
+              "title": "Система"
             }
           }
         ],
@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -172,8 +172,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -195,30 +195,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-kanban:Создать новую доску": false
     }
   },
   "active": "a81d61d0a9564f46",
   "lastOpenFiles": [
-    "LANIT/Проблемы BRT в разработке электрики и электроники.md",
+    "Полезные ссылки/САУ.md",
+    "Полезные ссылки/Система.md",
     "ТЗ на устройства/Плата настройки сход-развала.md",
     "ТЗ на устройства",
-    "Base/Templates/Шаблон собрания отдела.md",
-    "Подсказки.md",
+    "LANIT/Проблемы BRT в разработке электрики и электроники.md",
     "LANIT",
-    "Проблемы электрики и электроники.md",
     "Шаблон формы для набора в отдел электрики и электроники.md",
-    "Полезные ссылки/Система.md",
     "Полезные ссылки/Без названия",
     "Image/EPS.png",
     "Image/AMS_Slave_BRT8D.jpg",
@@ -233,18 +231,20 @@
     "Image",
     "Новая папка",
     "Полезные ссылки/Электроника.md",
-    "Полезные ссылки/САУ.md",
     "Полезные ссылки/Программирование.md",
     "Собрания/Первое большое собрание отдела.md",
     "Собрания/0. Список собраний.md",
     "Собрания/Собрание руководителей. Итоги сезона 2025..md",
     "conflict-files-obsidian-git.md",
     "Полезные ссылки",
+    "Подсказки.md",
+    "Base/Templates/Шаблон собрания отдела.md",
     "Base/Weekly/2025-W33.md",
     "Weekly/2025-W33.md",
     "Base/Weekly/2025-W34.md",
     "2025-08-18.md",
     "Собрания/Без названия.md",
+    "Проблемы электрики и электроники.md",
     "2025-08-27.md",
     "2025-W34.md",
     "2025-08-24.md",
