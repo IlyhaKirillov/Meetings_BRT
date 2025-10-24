@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9a59fd6de4584327",
+        "id": "619dd7d170137a38",
         "type": "tabs",
         "children": [
           {
-            "id": "b2bc2025b5a99018",
+            "id": "3e0272a99ff1a3ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Полезные ссылки/Электроника.md",
+                "file": "Собрания/Собрание 24.10.2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Электроника"
-            }
-          },
-          {
-            "id": "a81d61d0a9564f46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ТЗ на устройства/CMUX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CMUX"
+              "title": "Собрание 24.10.2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -195,23 +180,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-kanban:Создать новую доску": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a81d61d0a9564f46",
+  "active": "3e0272a99ff1a3ad",
   "lastOpenFiles": [
-    "Полезные ссылки/Система.md",
+    "Собрания/Собрание 24.10.2025.md",
+    "Полезные ссылки/Электроника.md",
     "ТЗ на устройства/CMUX.md",
+    "Полезные ссылки/Система.md",
     "Полезные ссылки/САУ.md",
     "ТЗ на устройства/Плата настройки сход-развала.md",
     "ТЗ на устройства",
@@ -231,7 +218,6 @@
     "Image/elcon_BRT8D.jpg.~",
     "Image",
     "Новая папка",
-    "Полезные ссылки/Электроника.md",
     "Полезные ссылки/Программирование.md",
     "Собрания/Первое большое собрание отдела.md",
     "Собрания/0. Список собраний.md",
@@ -244,7 +230,6 @@
     "Weekly/2025-W33.md",
     "Base/Weekly/2025-W34.md",
     "2025-08-18.md",
-    "Собрания/Без названия.md",
     "Проблемы электрики и электроники.md",
     "2025-08-27.md",
     "2025-W34.md",
