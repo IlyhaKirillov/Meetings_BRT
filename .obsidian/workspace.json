@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Собрания/Первое большое собрание отдела.md",
+                "file": "Регламент ответы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Первое большое собрание отдела"
+              "title": "Структура Регламент ответы"
             }
           },
           {
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "400522984015ad40",
+  "active": "f4d9160eefaf05fd",
   "lastOpenFiles": [
     "План презентаци.md",
     "Регламент ответы.md",
