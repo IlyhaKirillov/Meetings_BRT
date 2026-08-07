@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "7f0aa134cfb982d3",
+    "id": "ba738932e8a3886e",
     "type": "split",
     "children": [
       {
-        "id": "619dd7d170137a38",
+        "id": "2920bd07237ee221",
         "type": "tabs",
         "children": [
           {
-            "id": "4300d9cf556dbb29",
+            "id": "d1a71967b83f4d6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Собрание новым составом.md",
+                "file": "Собрания/Итоговое собрание 08.08.2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Собрание новым составом"
+              "title": "Итоговое собрание 08.08.2026"
             }
           }
         ]
@@ -27,33 +27,35 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "105e08dbe0cc68b0",
+    "id": "8c5f0e4a670ace50",
     "type": "split",
     "children": [
       {
-        "id": "6a13f089f929bcee",
+        "id": "fb789c3cde6af4a8",
         "type": "tabs",
         "children": [
           {
-            "id": "7a727a9f3145994e",
+            "id": "8cfde3d411b74ef8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
             }
           },
           {
-            "id": "92b42e6eee9e05e8",
+            "id": "ae97ccfffd9c8f2c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Electric/Electronics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,85 +67,87 @@
             }
           },
           {
-            "id": "5f0ccd1a49e8e654",
+            "id": "c4c1a3c5f4a66ca6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "880adb6933212aed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собрания/Итоговое собрание 08.08.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Итоговое собрание 08.08.2026"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 392.5
   },
   "right": {
-    "id": "526799d40b8bf8ee",
+    "id": "473c12e06421be70",
     "type": "split",
     "children": [
       {
-        "id": "ecce7a302a587c86",
+        "id": "161c97d08a929882",
         "type": "tabs",
         "children": [
           {
-            "id": "943a85e62003da35",
+            "id": "03c734c458932cd2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Собрания/Первое большое собрание отдела.md",
+                "file": "Собрания/Итоговое собрание 08.08.2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Первое большое собрание отдела"
+              "title": "Обратные ссылки"
             }
           },
           {
-            "id": "c03bd23fde18fdd7",
+            "id": "7fc1066e4f3f95c0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Собрания/Первое большое собрание отдела.md",
+                "file": "Собрания/Итоговое собрание 08.08.2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Первое большое собрание отдела"
+              "title": "Исходящие ссылки"
             }
           },
           {
-            "id": "1df453a50a8e3810",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Регламент ответы.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Структура Регламент ответы"
-            }
-          },
-          {
-            "id": "bad7e6d3f7caafea",
+            "id": "507df16a988e4003",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -152,17 +156,36 @@
             }
           },
           {
-            "id": "49b73197c46f7346",
+            "id": "419111874c9fa146",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
             }
           },
           {
-            "id": "f4d9160eefaf05fd",
+            "id": "be2e6563f0a8801e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Собрания/Итоговое собрание 08.08.2026.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "a7ebfe6ef16e4f1c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -176,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,55 +210,19 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "obsidian-kanban:Создать новую доску": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4300d9cf556dbb29",
+  "active": "d1a71967b83f4d6c",
   "lastOpenFiles": [
-    "Регламент ответы.md",
-    "Собрание новым составом.md",
-    "ТЗ на устройства/CMUX.md",
-    "Проблемы электрики и электроники.md",
     "План презентаци.md",
     "Подсказки.md",
-    "ТЗ на устройства/Плата настройки сход-развала.md",
-    "Полезные ссылки/САУ.md",
-    "Полезные ссылки/Система.md",
-    "Полезные ссылки/Электроника.md",
-    "Собрания/Собрание 24.10.2025.md",
-    "ТЗ на устройства",
-    "LANIT/Проблемы BRT в разработке электрики и электроники.md",
-    "LANIT",
+    "Проблемы электрики и электроники.md",
+    "Регламент ответы.md",
+    "Собрание новым составом.md",
     "Шаблон формы для набора в отдел электрики и электроники.md",
-    "Полезные ссылки/Без названия",
-    "Image/EPS.png",
-    "Image/AMS_Slave_BRT8D.jpg",
-    "Image/AMS_Slave_BRT8D.jpg.~",
-    "Image/Acum_BRT8D.png",
-    "Image/Acum_BRT8D.png.~",
-    "Image/Wiring_BRT8D.png",
-    "Image/Wiring_BRT8D.png.~",
-    "Image/elcon_BRT8D.png",
-    "Image/elcon_BRT8D.jpg",
-    "Image/elcon_BRT8D.jpg.~",
-    "Image",
-    "Новая папка",
-    "Полезные ссылки/Программирование.md",
-    "Собрания/Первое большое собрание отдела.md",
-    "Собрания/0. Список собраний.md",
-    "Собрания/Собрание руководителей. Итоги сезона 2025..md",
-    "conflict-files-obsidian-git.md",
-    "Полезные ссылки",
-    "Base/Templates/Шаблон собрания отдела.md",
-    "Base/Weekly/2025-W33.md",
-    "Weekly/2025-W33.md",
-    "Base/Weekly/2025-W34.md",
-    "2025-08-18.md",
-    "2025-08-27.md",
-    "2025-W34.md",
-    "2025-08-24.md"
+    "README.md",
+    "Собрания/Итоговое собрание 08.08.2026.md",
+    "Без названия.base"
   ]
 }
